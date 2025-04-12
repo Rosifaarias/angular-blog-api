@@ -19,7 +19,7 @@ Este projeto é uma **API RESTful** desenvolvida com **Spring Boot** em Java par
 - ✅ CRUD de Categorias
 - ✅ Relacionamento entre Postagens e Categorias
 - ✅ Validação de dados
-- ✅ Organização em camadas (Controller, Service, Repository, Model)
+- ✅ Organização em camadas (Controller, Repository, Model)
 - ✅ Documentação com Swagger (opcional)
 
 ## 🔗 Endpoints principais
